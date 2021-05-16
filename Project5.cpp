@@ -79,7 +79,7 @@ main(){
 
     int no_of_prcsses,priority_of_prcss,bst_t_of_prcss;
     //Prompt User for entering Prcsses and assigning it to respective queue.
-    cout<<"Enter the number of process to be executedes\n";
+    cout<<"Enter the number of process to be executed\n";
     cin>>no_of_prcsses;
     prcss p1[no_of_prcsses];
 
